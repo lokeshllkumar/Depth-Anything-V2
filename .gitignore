@@ -1,3 +1,5 @@
 checkpoints/
 
 **/__pycache__/
+
+video_depth_vis/
