@@ -4,4 +4,6 @@ checkpoints/
 
 video_depth_vis/
 
+depth_vis/
+
 obj_models/
