@@ -1,1 +1,3 @@
-metric_depth/checkpoints
+checkpoints/
+
+**/__pycache__/
